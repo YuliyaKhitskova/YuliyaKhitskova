@@ -1,5 +1,13 @@
-## Hi there 👋
+## Data analysis using Python 
 
+| Project Name | Description |
+|--------------|-------------|
+| [Analysis of AB test results for recommendation system in delivery application](https://github.com/YuliyaKhitskova/Analysis-of-the-results-of-the-AB-test-of-the-recommendation-system-in-the-delivery-application) | Conducted analysis and determined statistical significance of order changes after implementing new recommendation system |
+| [Analysis of AB test results for payment mechanisms in education](https://github.com/YuliyaKhitskova/Analysis-of-the-results-of-an-A-B-test-of-payment-mechanisms-in-the-field-of-education) | Identified metrics characterizing changes after implementation, conducted analysis, linearized metrics, and calculated statistical significance |
+| [Data Cleaning](https://github.com/YuliyaKhitskova/Cleaning-data-) | Part of financial data project dealing with specific outliers and missing values, aimed at preparing data for model creation |
+| [Analysis of player grouping effect in mobile game](https://github.com/YuliyaKhitskova/Analysis-of-the-effect-of-grouping-players-in-a-mobile-game) | Examined player behavior when forming gaming alliances, influence of alliances on spending, and potential pricing policy changes |
+| [DAG - updating information about most visited domains](https://github.com/YuliyaKhitskova/dag---updates-information-about-the-most-visited-domain) | Shows update schedule for domains with highest purchase activity |
+| [DAG - updating information about computer games](https://github.com/YuliyaKhitskova/dag---updates-information-about-computer-games)| Shows update schedule for best-selling games on gaming platform across different countries |
 <!--
 **YuliyaKhitskova/YuliyaKhitskova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
